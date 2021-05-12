@@ -44,5 +44,5 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: azurehelloworld
             location: 'West Europe'
-            ports: 8080
+            ports: 80
 
