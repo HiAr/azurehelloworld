@@ -11,7 +11,7 @@ public class AzurehelloworldApplication {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Azure World";
+        return "Hello Azure World 2";
     }
 
     public static void main(String[] args) {
